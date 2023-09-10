@@ -49,3 +49,13 @@ CREATE TABLE `mapa`.`usuario` (
   `senha` VARCHAR(45) NULL,
   `email` VARCHAR(45) NULL,
   PRIMARY KEY (`id`));
+
+## Resultado Final
+
+Tela de Login:
+![image](https://github.com/gHenriqueCarlos/LoginCadastroApp/assets/45677964/2db17bbc-c1fe-4c45-83e4-a9b6ebc98f46)
+
+Tela de Cadastro:
+![image](https://github.com/gHenriqueCarlos/LoginCadastroApp/assets/45677964/efc98bfb-5746-4127-876c-874eb59a1c53)
+
+
