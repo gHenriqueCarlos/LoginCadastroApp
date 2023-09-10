@@ -17,10 +17,10 @@ Você como desenvolvedor FullStack em uma empresa, foi designado a criar um sist
 Este sistema deve possuir a tela usando Java SWING e conexão com banco de dados de sua preferência usando JDBC como tipo de conexão.
 
 Exemplo da Tela de Login
-[https://sistemasead.unicesumar.edu.br/flex/amfphp/services/Portal/ImagemQuestionario2/QUE_175249_542236_1.png](https://sistemasead.unicesumar.edu.br/flex/amfphp/services/Portal/ImagemQuestionario2/QUE_175249_542236_1.png)
+![image](https://github.com/gHenriqueCarlos/LoginCadastroApp/assets/45677964/3fe031f5-cbe7-4f9b-88ac-e2b6f91948fa)
 
 Exemplo da Tela de Cadastrar Novo Usuário
-[https://sistemasead.unicesumar.edu.br/flex/amfphp/services/Portal/ImagemQuestionario2/QUE_175249_542236_1.png](http://sistemasead.unicesumar.edu.br/flex/amfphp/services/Portal/ImagemQuestionario2/QUE_175249_542236_2.png)
+![image](https://github.com/gHenriqueCarlos/LoginCadastroApp/assets/45677964/2323bd9d-9be8-45df-b683-5b2a2858244e)
 
 O programa inicia na tela de login, e o botão redireciona para a tela de cadastro
 
